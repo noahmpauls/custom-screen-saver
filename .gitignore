@@ -1,0 +1,10 @@
+# IDE config
+.vs/
+.vscode/
+
+# Developer config
+*.csproj.user
+
+# Build files
+bin/
+obj/
